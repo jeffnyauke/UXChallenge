@@ -27,7 +27,7 @@ If you want to contribute to this library, you're always welcome!
 ```
 MIT License
 
-Copyright (c) 2020 Shreyas Patil
+Copyright (c) 2020 Jeffrey Nyauke
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
