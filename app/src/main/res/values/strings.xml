@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UX Challenge</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_home_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_dashboard_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_notifications_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="online_status">online_status</string>
+    <string name="welcome">Welcome back, Harry!</string>
+    <string name="available">Available for work</string>
+    <string name="hero_academy">Hero Academy</string>
+    <string name="teamwork_media">Teamwork Media</string>
+    <string name="hero_description">You have completed 3 of 5 training modules so far. Visit the hero academy to complete the rest.</string>
+    <string name="launch_hero_academy">Launch Hero Academy</string>
+    <string name="new_messages">New Messages</string>
+    <string name="unread_count">2 unread</string>
+    <string name="bookings_count">4 bookings</string>
+    <string name="title_missions">Missions</string>
+    <string name="title_bookings">Bookings</string>
+    <string name="tab_nearby">Nearby</string>
+    <string name="tab_newly_listed">Newly Listed</string>
+    <string name="tab_applied">Applied</string>
+    <string name="tab_this_week">This Week</string>
+    <string name="outstanding_bookings">Outstanding Bookings</string>
+    <string name="upcoming_bookings">Upcoming Bookings</string>
+    <string name="applied">Applied</string>
+    <string name="mission_location">Petersham, NSW\n2040</string>
+    <string name="mission_date">Wednesday 21 Sep at 9:00 a.m</string>
+    <string name="mission_description">Long for a hero to teach me to how\ncooka stir-fry as I\'m not very good at it.</string>
+</resources>
